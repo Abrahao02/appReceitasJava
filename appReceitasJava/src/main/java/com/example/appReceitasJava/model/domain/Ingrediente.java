@@ -9,7 +9,7 @@ public class Ingrediente extends Receita{
 	
 	@Override
 	public String toString() {
-		return String.format(" %s - nomeIngrediente (%s) - precoIngrediente (%,2f) - quantidadeIngrediente (%,2f) - quantidadeUtilizadaIngrediente (%,2f)", 
+		return String.format(" %s - nomeIngrediente (%s) - precoIngrediente (%.2f) - quantidadeIngrediente (%.2f) - quantidadeUtilizadaIngrediente (%.2f)", 
 				super.toString(), nomeIngrediente, precoIngrediente, quantidadeIngrediente, quantidadeUtilizadaIngrediente 
 				);
 	}

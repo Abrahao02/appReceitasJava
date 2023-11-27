@@ -8,7 +8,7 @@ public abstract class Receita {
 	
 	@Override
 	public String toString() {
-		return String.format("nomeReceita (%s) - valorTotalReceita (%,2f) - codigo (%d)", nomeReceita, valorTotalReceita, codigo);
+		return String.format("nomeReceita (%s) - valorTotalReceita (%.2f) - codigo (%d)", nomeReceita, valorTotalReceita, codigo);
 	}
 	
 	public Float getValorTotalReceita() {

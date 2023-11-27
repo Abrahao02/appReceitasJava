@@ -1,12 +1,4 @@
-Bolo de Cenoura;130;12345;Cenoura;10;10;5
-Bolo de Chocolate;150;23456;Chocolate;10;1;1
-
-
-
-
-
-
-
-
-
-
+Bolo de Damasco;150;456456;Damasasco;15;30;15;
+Bolo de Morango;100;234234;Morango;15;30;15;
+Bolo de Laranja;80;12312315;Laranja;15;30;15;
+Bolo de Chocolate;90;32132115;Chocolate;15;30;15;
